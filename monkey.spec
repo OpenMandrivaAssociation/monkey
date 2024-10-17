@@ -5,7 +5,7 @@ Release:	1
 License:	GPLv2
 Group:		Networking/WWW
 Source0:	http://www.monkey-project.com/releases/0.21/%{name}-%{version}.tar.gz
-URL:		http://www.monkey-project.com
+URL:		https://www.monkey-project.com
 
 %description
 Monkey HTTP Daemon is a very Fast and Lightweight Web Server for Linux.
