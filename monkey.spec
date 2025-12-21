@@ -7,6 +7,11 @@ Group:		Networking/WWW
 Source0:	http://www.monkey-project.com/releases/0.21/%{name}-%{version}.tar.gz
 URL:		https://www.monkey-project.com
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Monkey HTTP Daemon is a very Fast and Lightweight Web Server for Linux.
 It has been designed to be very scalable with low memory and CPU consumption,
